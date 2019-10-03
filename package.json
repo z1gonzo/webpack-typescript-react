@@ -1,0 +1,24 @@
+{
+  "name": "webpack-typescript-react",
+  "version": "1.0.0",
+  "description": "Webpack configuration for react and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1gonzo/webpack-typescript-react.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "typescript"
+  ],
+  "author": "z1gonzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z1gonzo/webpack-typescript-react/issues"
+  },
+  "homepage": "https://github.com/z1gonzo/webpack-typescript-react#readme"
+}
