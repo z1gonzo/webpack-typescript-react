@@ -50,7 +50,7 @@ We need to set our Typescript with file `tsconfig.json`
 Also we need to add `TypeScript` configuration to `Webpack`
 
 ```javascript
-    const path = require('path');
+const path = require('path');
 
 module.exports = {
   entry: './src/index.tsx',
